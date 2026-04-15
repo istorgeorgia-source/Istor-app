@@ -1,0 +1,17 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:color/black" />
+    <item android:gravity="center">
+        <layer-list>
+            <item android:gravity="center">
+                <shape android:shape="rectangle">
+                    <size android:width="170dp" android:height="170dp" />
+                    <solid android:color="#F97316" />
+                    <corners android:radius="28dp" />
+                </shape>
+            </item>
+            <item android:gravity="center">
+                <bitmap android:gravity="center" android:src="@drawable/ic_launcher_foreground" />
+            </item>
+        </layer-list>
+    </item>
+</layer-list>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ISTOR</string>
+    <string name="download_started">ჩამოტვირთვა დაიწყო</string>
+    <string name="downloading_file">ფაილი იტვირთება</string>
+    <string name="cannot_open_link">ბმული ვერ გაიხსნა</string>
+    <string name="file_picker_error">ფაილის ამორჩევა ვერ გაიხსნა</string>
+    <string name="no_internet">ინტერნეტთან კავშირი არ არის</string>
+    <string name="home">მთავარი</string>
+    <string name="back">უკან</string>
+    <string name="refresh">განახლება</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="istor_primary">#111111</color>
+    <color name="istor_primary_dark">#000000</color>
+    <color name="istor_accent">#F97316</color>
+    <color name="istor_surface">#F7F7F7</color>
+</resources>

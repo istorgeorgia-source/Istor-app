@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.IstorApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/istor_primary</item>
+        <item name="colorPrimaryVariant">@color/istor_primary_dark</item>
+        <item name="colorSecondary">@color/istor_accent</item>
+        <item name="android:statusBarColor">@color/istor_primary_dark</item>
+        <item name="android:navigationBarColor">@color/black</item>
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+</resources>
